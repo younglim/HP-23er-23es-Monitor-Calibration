@@ -2,7 +2,16 @@
 Calibrated HP 23er 23es Monitor Settings
 
 
+## Sharpness
+
+By default, the sharpess is set too high. 
+
+```
+Main Menu > Image Control > Sharpness > Level 3
+```
+
 ## Brightness and Contrast
+
 `Main Menu > Brightness... > 43` (or desired brightness).
 
 `Main Menu > Contrast... > 65`.
@@ -20,7 +29,7 @@ B: 254
 
 ## Gamma Calibration
 
-By default, the gamma is set too high. There is OSD controls to fix this. Hence, use the gamma-calibrated icc file.
+By default, the gamma is set too high. There is no OSD controls to fix this. Hence, use the tweaked gamma and colour icc file.
 
 Download [HP 23es Calibrated.icc](https://raw.githubusercontent.com/younglim/HP-23er-23es-Monitor-Calibration/master/HP%2023es%20Calibrated.icc) profile.
 
@@ -37,12 +46,3 @@ Download [HP 23es Calibrated.icc](https://raw.githubusercontent.com/younglim/HP-
 - Click the Add button.
 - On the Associate Color Profile page, click the Browse button and locate the color profile downloaded earlier.
 - Double-click the .icc file to install the new profile.
-
-
-## Sharpness
-
-By default, the sharpess is set too high. 
-
-```
-Main Menu > Image Control > Sharpness > Level 3
-```
