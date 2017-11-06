@@ -4,7 +4,7 @@ Calibrated HP 23er 23es Monitor Settings
 
 ## Sharpness
 
-By default, the sharpess is set too high. 
+By default, the sharpess is set too high. Set Sharpness to Level 2 or 3.
 
 ```
 Main Menu > Image Control > Sharpness > Level 3
@@ -46,3 +46,10 @@ Download [HP 23es Calibrated.icc](https://raw.githubusercontent.com/younglim/HP-
 - Click the Add button.
 - On the Associate Color Profile page, click the Browse button and locate the color profile downloaded earlier.
 - Double-click the .icc file to install the new profile.
+
+
+## Video OverDrive
+
+Optional setting as it may / may not affect improve video quality.
+
+`Main Menu > Image Control > Video OverDrive > Level 3`
