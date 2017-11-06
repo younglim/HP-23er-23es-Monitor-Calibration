@@ -50,6 +50,6 @@ Download [HP 23es Calibrated.icc](https://raw.githubusercontent.com/younglim/HP-
 
 ## Video OverDrive
 
-Optional setting as it may / may not affect improve video quality.
+Optional setting as it may / may not improve the smoothness of video playback.
 
 `Main Menu > Image Control > Video OverDrive > Level 3`
