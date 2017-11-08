@@ -34,7 +34,7 @@ By default, the gamma is set too high. There is no OSD controls to fix this. Hen
 Download [HP 23es Calibrated.icc](https://raw.githubusercontent.com/younglim/HP-23er-23es-Monitor-Calibration/master/HP%2023es%20Calibrated.icc) profile.
 
 
-### Mac OS X / maOS
+### Mac OS X / macOS
 - Copy and Paste the .icc file to `/Users/YOUR_USERNAME/Library/ColorSync/Profiles` .
 - Go to  > System Preferences > Displays > Color > HP 23es Calibrated.icc.
 
