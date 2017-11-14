@@ -7,12 +7,12 @@ Calibrated HP 23er 23es Monitor Settings
 By default, the sharpess is set too high. Set Sharpness to Level 2 or 3.
 
 ```
-Main Menu > Image Control > Sharpness > Level 3
+Main Menu > Image Control > Sharpness > Level 2
 ```
 
 ## Brightness and Contrast
 
-`Main Menu > Brightness... > 43` (or desired brightness).
+`Main Menu > Brightness... > 35` (or desired brightness).
 
 `Main Menu > Contrast... > 65`.
 
@@ -22,8 +22,9 @@ Main Menu > Image Control > Sharpness > Level 3
 By default, the monitor appears too yellow / green.
 ```
 Main Menu > Color Control... > Custom RGB... 
-R: 245
-G: 239
+R: 249
+G: 235
+
 B: 251
 ```
 
@@ -52,4 +53,4 @@ Download [HP 23es Calibrated.icc](https://raw.githubusercontent.com/younglim/HP-
 
 Optional setting as it may / may not improve the smoothness of video playback.
 
-`Main Menu > Image Control > Video OverDrive > Level 3`
+`Main Menu > Image Control > Video OverDrive > Level 2`
