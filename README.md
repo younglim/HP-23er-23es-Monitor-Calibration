@@ -22,8 +22,8 @@ Main Menu > Image Control > Sharpness > Level 2
 By default, the monitor appears too yellow / green.
 ```
 Main Menu > Color Control... > Custom RGB... 
-R: 249
-G: 235
+R: 248
+G: 233
 B: 247
 ```
 
