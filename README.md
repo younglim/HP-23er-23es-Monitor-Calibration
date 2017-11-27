@@ -24,7 +24,7 @@ By default, the monitor appears too yellow / green.
 Main Menu > Color Control... > Custom RGB... 
 R: 251
 G: 241
-B: 255
+B: 254
 ```
 
 ## Gamma Calibration
@@ -52,4 +52,4 @@ Download [HP 23es Calibrated.icc](https://raw.githubusercontent.com/younglim/HP-
 
 Optional setting as it may / may not improve the smoothness of video playback.
 
-`Main Menu > Image Control > Video OverDrive > Level 2`
+`Main Menu > Image Control > Video OverDrive > Off`
