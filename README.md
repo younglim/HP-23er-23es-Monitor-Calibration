@@ -23,7 +23,7 @@ By default, the monitor appears too yellow / green.
 ```
 Main Menu > Color Control... > Custom RGB... 
 R: 238
-G: 232
+G: 220
 B: 245
 ```
 
