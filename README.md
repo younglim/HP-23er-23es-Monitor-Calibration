@@ -22,9 +22,9 @@ Main Menu > Image Control > Sharpness > Level 3
 By default, the monitor appears too yellow / green.
 ```
 Main Menu > Color Control... > Custom RGB... 
-R: 251
-G: 247
-B: 251
+R: 248
+G: 226
+B: 248
 ```
 
 ## Gamma Calibration
