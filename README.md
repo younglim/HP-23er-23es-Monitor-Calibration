@@ -24,7 +24,7 @@ By default, the monitor appears too yellow / green.
 Main Menu > Color Control... > Custom RGB... 
 R: 248
 G: 226
-B: 248
+B: 243
 ```
 
 ## Gamma Calibration
