@@ -27,6 +27,13 @@ G: 232
 B: 250
 ```
 
+```
+Warmer Tone:
+R: 245
+G: 231
+B: 241
+```
+
 ## Gamma Calibration
 
 By default, the gamma is set too high. There is no OSD controls to fix this. Hence, use the tweaked gamma and colour icc file.
